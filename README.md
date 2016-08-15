@@ -8,3 +8,4 @@
 1. 使用github文件和搭建页面的基础网站
 2. 后台文件创建数据表（40%）
 3. pages.github.com项目文件的维护和使用搭建
+4. 文件的域名[http://hpuphp.github.io/git01/README.md](http://hpuphp.github.io/git01/README.md)
