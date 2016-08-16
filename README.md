@@ -9,3 +9,9 @@
 2. 后台文件创建数据表（40%）
 3. pages.github.com项目文件的维护和使用搭建
 4. 文件的域名[http://hpuphp.github.io/git01/README.md](http://hpuphp.github.io/git01/README.md)
+
+----------
+2016.08.16
+
+1. 标签和访问权限接口搭建
+2. extjs学习使用（10%）
